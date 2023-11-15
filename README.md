@@ -1,4 +1,4 @@
-# 思维方式
+# Models-of-Thinking 思维方式
 
 ## 基础思维
 
